@@ -2,7 +2,7 @@ Bài 2 : Chuẩn bị hồ sơ dự án trước khi triển khai hệ thống
 Phần 1. Phân tích: Mô tả sơ đồ cây cấu trúc Heading cho file SRS.
 Heading 1: là tiêu đề 
 Heading 2: sẽ thụt vô 1 khoảng so với heading 1, là đề mục của phần lớn
-Heading 3: sẽ thụt vô sâu hơn là phần nhỏ của heading 2
+Heading 3: sẽ thụt vô sâu hơn so với heading 1 và heading 2, heading 3 là phần nhỏ của heading 2
 
 Phần 2. Triển khai: File báo cáo hoàn chỉnh.
  PowerPoint (Slide giới thiệu nền tảng)
